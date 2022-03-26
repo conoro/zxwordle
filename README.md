@@ -1,5 +1,5 @@
 # ZX Wordle
-The core Wordle game implemented in C for the ZX Spectrum in 2022 to celebrate 40 years since the launch on April 23rd 1982.
+The core [Wordle](https://www.nytimes.com/games/wordle/index.html) game implemented in C for the ZX Spectrum in 2022 to celebrate 40 years since the launch on April 23rd 1982.
 
 My blogpost about it [is here](https://conoroneill.net/2022/03/26/celebrating-40-years-of-sinclair-zx-spectrum-with-zx-wordle/).
 
@@ -21,4 +21,3 @@ It's all pretty much stdin/stdout including the colour blocks which are just Spe
 
  Copyright Conor O'Neill 2022 (conor@conoroneill.com)
  LICENSE: Apache-2.0
- 
