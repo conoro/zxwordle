@@ -1,9 +1,12 @@
-/*
-  Compile with:
+/* ZX Wordle
 
-  zcc +zx -vn -startup=1 -clib=sdcc_iy zxwordle.c -o zxwordle -create-app
+ Copyright Conor O'Neill 2022 (conor@conoroneill.com)
+ LICENSE: Apache-2.0
+
+Wordle implemented for the ZX Spectrum 48K and higher to celebrate 40 years since the launch on April 23rd 1982.
 
 */
+
 
 #include <arch/zx.h>
 #include <stdio.h>
